@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ending_game/static/css/main.ee5c8d3c.css",
+    "main.js": "/ending_game/static/js/main.71b69d92.js",
+    "static/js/787.bdc2d5e5.chunk.js": "/ending_game/static/js/787.bdc2d5e5.chunk.js",
+    "index.html": "/ending_game/index.html",
+    "main.ee5c8d3c.css.map": "/ending_game/static/css/main.ee5c8d3c.css.map",
+    "main.71b69d92.js.map": "/ending_game/static/js/main.71b69d92.js.map",
+    "787.bdc2d5e5.chunk.js.map": "/ending_game/static/js/787.bdc2d5e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee5c8d3c.css",
+    "static/js/main.71b69d92.js"
+  ]
+}
